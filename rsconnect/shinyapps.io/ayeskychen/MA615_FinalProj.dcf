@@ -1,0 +1,13 @@
+name: MA615_FinalProj
+title: MA615_FinalProj
+username:
+account: ayeskychen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 619231
+bundleId: 1769819
+url: https://ayeskychen.shinyapps.io/MA615_FinalProj/
+when: 1545106640.727
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Officer_PPT
